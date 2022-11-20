@@ -1,0 +1,6 @@
+{
+    "coordinate_server_port": 5000,
+    "coordinate_server_address": "localhost",
+    "print_new_coordinate": false,
+    "backend_server_port": 3000
+}
