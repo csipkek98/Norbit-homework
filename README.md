@@ -1,15 +1,19 @@
-# Table of contents
- 1. [Tech Stack](#tech-stack)
- 2. [How to Use?](#how-to-use)
- 3. [Homework Status](#homework-status)
- 4. [Author notes](#author-notes)
- 
+# Author's notes
+
+Hello dear Reader!<br>So I've tried to finish this project in time, unfortunately I had some problems with Vue js's data sending to other components automatically and I ran out of time. Once I was able to send through the data to the Openlayers component I was not able to refresh the Openlayers VectorLayer to show new coordinates sadly.<br>
+As a conlusion: I had a blast with this project! I learned many new things like: Socket IO, OpenLayers, Vue and Express.js<br>
+Im really sad I was not been able to finish it in time, but it was fun!<br>
+
 # Tech stack
 
 - Coordinate Provider: Flask
 - Backend: Express.js
 - Frontend: Vue (+OpenLayers)
-- DB: PSQL (WIP)
+
+# Table of contents
+ 1. [How to Use?](#how-to-use)
+ 2. [Homework Status](#homework-status)
+ 3. [FAQ](#faq)
 
 # How to Use?
 
@@ -18,6 +22,11 @@
 3. Open the "run applications.bat" file in the main folder
 4. If 3 cmd is showing up and stays (picture attached), you are Done!<br><br>
 <img src="https://user-images.githubusercontent.com/90270578/203004724-2ce21ade-a488-4728-8d20-aa342bc5790a.png" width="700px"><br>
+
+```
+Bonus information:
+You can change the config (like port) for every service in their folder's config.json file!
+```
 
 
 # Homework status
@@ -32,11 +41,7 @@
 ❌ Load path from Data Base<br>
 ❌ No boat icon with heading on the map
 
-# Author notes
 
-Hello dear Reader!<br>So I've tried to finish this project in time, unfortunately I had some problems with Vue js's data sending to other components automatically and I ran out of time. Once I was able to send through the data to the Openlayers component I was not able to refresh the Openlayers VectorLayer to show new coordinates sadly.<br>
-As a conlusion: I had a blast with this project! I learned many new things like: Socket IO, OpenLayers, Vue and Express.js<br>
-Im really sad I was not been able to finish it in time, but it was fun!<br>
 
 # FAQ
 
