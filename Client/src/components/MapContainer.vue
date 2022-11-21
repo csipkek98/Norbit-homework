@@ -1,7 +1,4 @@
 <template>
-  <div>
-    {{model}}
-  </div>
   <div ref="map-root"
         style="width: 100%; height: 100%">
   </div>
