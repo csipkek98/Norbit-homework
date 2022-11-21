@@ -1,6 +1,6 @@
 # Author's notes
 
-Hello dear Reader!<br>So I've tried to finish this project in time, unfortunately I had some problems with Vue js's data sending to other components and I ran out of time. Sadly, once I was able to send through the data to the Openlayers component I was not able to refresh the Openlayers VectorLayer to show new coordinates.<br>
+Hello, dear Reader!<br>So I've tried to finish this project in time, unfortunately I had some problems with Vue js's data sending to other components and I ran out of time. Sadly, once I was able to send through the data to the Openlayers component I was not able to refresh the Openlayers VectorLayer to show new coordinates.<br>
 As a conlusion: I had a blast with this project! I learned many new things like: Socket IO, OpenLayers, Vue and Express.js<br>
 I'm really sad I was not been able to finish it in time, but it was fun!<br>
 
