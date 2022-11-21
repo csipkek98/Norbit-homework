@@ -15,7 +15,7 @@
 <script>
 import MapContainer from './components/MapContainer.vue';
 import { ref } from 'vue'
-var CONFIG = require('./config.json');
+import CONFIG from '../config.json'
 const socket = io('http://' + CONFIG.backend_server_address + ':' + CONFIG.backend_server_port)
 
 socket.on('connection')
